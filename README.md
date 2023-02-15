@@ -2,11 +2,9 @@
   TDI Capstone Project
 
 **Goal:** To create a model that can help influencers predict the number of views for youtuber's next video </br>
-**Target Audience:** Youtuber
-
-**Object:** Build machine learing model to predict video views
-
-**Dataset:** Obtained from YouTube Data API v3
+**Target Audience:** Youtuber </br>
+**Object:** Build machine learing model to predict video views </br>
+**Data:** Obtained from YouTube Data API v3 </br>
 
 
 Model Features:
