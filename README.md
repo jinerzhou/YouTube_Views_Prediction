@@ -1,15 +1,16 @@
 # YouTube_Views_Prediction
 
 **Goal:** </br>
-&emsp; Create a machine learning model that can help influencers predict the number of views for youtuber's next video </br>
+&emsp; Create a machine learning model that can help influencers predict the number of views for youtuber's next video </br></br>
 **Target Audience:** </br>
-&emsp; Youtuber </br>
+&emsp; Youtuber </br></br>
 **Object:** </br>
-&emsp; Build machine learing model to predict video views </br>
+&emsp; Build machine learing model to predict video views </br></br>
 **Data:** </br>
-&emsp; Obtained from YouTube Data API v3 </br>
+&emsp; Obtained from YouTube Data API v3 </br></br>
 
-**Model Target:**  views </br>
+**Model Target:**  </br>
+&emsp; views </br></br>
 
 **Model Features:**
 - country_code
