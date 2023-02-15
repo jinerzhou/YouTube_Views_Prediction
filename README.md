@@ -10,7 +10,7 @@
 &emsp; Obtained from YouTube Data API v3 </br></br>
 
 **Model Target:**  </br>
-&emsp; views </br></br>
+&emsp; View Counts </br></br>
 
 **Model Features:**
 - country_code
