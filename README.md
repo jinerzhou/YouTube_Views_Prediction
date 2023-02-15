@@ -1,5 +1,4 @@
 # YouTube_Views_Prediction
-  TDI Capstone Project
 
 **Goal:** </br>
 &emsp; Create a machine learning model that can help influencers predict the number of views for youtuber's next video </br>
