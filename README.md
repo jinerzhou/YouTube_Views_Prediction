@@ -1,13 +1,13 @@
 # YouTube_Views_Prediction
   TDI Capstone Project
 
-**Goal:** To create a model that can help influencers predict the number of views for youtuber's next video </br>
-**Target Audience:** Youtuber </br>
+**Goal:** &emsp; &emsp; To create a model that can help influencers predict the number of views for youtuber's next video </br>
+**Target Audience:** &emsp;&emsp; Youtuber </br>
 **Object:** Build machine learing model to predict video views </br>
 **Data:** Obtained from YouTube Data API v3 </br>
 
 
-Model Features:
+**Model Features:**
 - country_code
 - video_id
 published_at
