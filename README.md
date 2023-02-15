@@ -3,9 +3,12 @@
 
 **Goal:** </br>
 &emsp; Create a machine learning model that can help influencers predict the number of views for youtuber's next video </br>
-**Target Audience:** &emsp; Youtuber </br>
-**Object:** &emsp; Build machine learing model to predict video views </br>
-**Data:** &emsp; Obtained from YouTube Data API v3 </br>
+**Target Audience:** </br>
+&emsp; Youtuber </br>
+**Object:** </br>
+&emsp; Build machine learing model to predict video views </br>
+**Data:** </br>
+&emsp; Obtained from YouTube Data API v3 </br>
 
 **Model Target:**  views </br>
 
