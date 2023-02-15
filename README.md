@@ -1,7 +1,7 @@
 # YouTube_Views_Prediction
   TDI Capstone Project
 
-**Goal:** 
+**Goal:** </br>
 &emsp; Create a machine learning model that can help influencers predict the number of views for youtuber's next video </br>
 **Target Audience:** &emsp; Youtuber </br>
 **Object:** &emsp; Build machine learing model to predict video views </br>
