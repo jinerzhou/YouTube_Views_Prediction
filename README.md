@@ -1,5 +1,4 @@
-# YouTube_Views_Prediction
-### Project Title: YouTube Views Prediction - For Fitness Videos
+# YouTube Views Prediction - For Fitness Videos
 
 #### Summary </br>
 This project focuses on developing a machine learning model that predicts the approximate number of views that a YouTube Fitness video will receive, using various input features such as the title / description / tags of the video, the video length (in seconds), and the content creator’s channel popularity (views, subscribers count, and videos count).
@@ -14,12 +13,12 @@ To start the project, a dataset of around 25K fitness-related videos on YouTube 
 
 
 Flowchart: </br>
-●	Collect fitness-related videos dataset from YouTube </br>
-●	Preprocess the data, perform exploratory data analysis, and feature engineering </br>
-●	Split the data into training and testing sets </br>
-●	Train multiple machine learning models via various methods </br>
-●	Evaluate the performance of each model and select the best performing one </br>
-●	Create the final pipelined machine learning models to predict the number of views for upcoming fitness videos on YouTube </br>
-●	Develop user interaction to take user inputs and compute predictions </br>
-●	Utilize the model to estimate the potential impact of upcoming videos and adjust the video-related information accordingly </br>
+●	 Collect fitness-related videos dataset from YouTube </br>
+●	 Preprocess the data, perform exploratory data analysis, and feature engineering </br>
+●  Split the data into training and testing sets </br>
+●  Train multiple machine learning models via various methods </br>
+●	 Evaluate the performance of each model and select the best performing one </br>
+●	 Create the final pipelined machine learning models to predict the number of views for upcoming fitness videos on YouTube </br>
+●	 Develop user interaction to take user inputs and compute predictions </br>
+●	 Utilize the model to estimate the potential impact of upcoming videos and adjust the video-related information accordingly </br>
 
